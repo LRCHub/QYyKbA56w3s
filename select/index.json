@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "悲劇のヒロイン",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-15T08:05:06.083475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲劇のヒロイン",
+      "artist": "kousakisatoru",
+      "has_synced": false,
+      "path": "select/01_悲劇のヒロイン_kousakisatoru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "悲劇のヒロイン",
+      "artist": "神前暁",
+      "has_synced": false,
+      "path": "select/02_悲劇のヒロイン_神前暁.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "悲劇のヒロイン",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/03_悲劇のヒロイン_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "悲劇のヒロイン",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/04_悲劇のヒロイン_My_Hair_is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "悲劇のヒロイン - Higeki no Heroine",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/05_悲劇のヒロイン_-_Higeki_no_Heroine_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲劇のヒロイン",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_悲劇のヒロイン_My_Hair_is_Bad.txt"
+    }
+  ]
+}
